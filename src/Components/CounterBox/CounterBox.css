@@ -1,0 +1,18 @@
+.counter-box-wrapper {
+    text-align: center;
+}
+.counter-number {
+    font-size: 20px;
+    margin-top: 15px;
+    font-weight: 800;
+}
+.counter-box-row {
+    margin: 20px 0;
+}
+.counter-box-row button {
+    margin: 0 10px;
+    background-color: #ddd;
+    padding: 5px 15px;
+    border: 1px solid #ddd;
+    cursor: pointer;
+}
